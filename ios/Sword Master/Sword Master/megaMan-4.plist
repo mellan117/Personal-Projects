@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Tiny guy 1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{29,60}}</string>
+                <key>offset</key>
+                <string>{2,6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{67,45},{29,60}}</string>
+                <key>sourceSize</key>
+                <string>{159,162}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>megas.png</string>
+            <key>size</key>
+            <string>{33,64}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b2040e2f4c0a9bbca7b180a4a55fe687:b272f33b92282cdb92a35e71a7123b45:6e712adf9639f36c2d6ee2e5ace35355$</string>
+            <key>textureFileName</key>
+            <string>megas.png</string>
+        </dict>
+    </dict>
+</plist>
